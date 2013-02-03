@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/module/Backend/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/module/Application/tests" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://C:/Program Files (x86)/Zend/ZendServer/bin/PEAR" />
+          <root url="file://C:/Program Files (x86)/Zend/ZendServer/share/ZendFramework/library" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://C:/Program Files (x86)/Zend/ZendServer/bin/PEAR" />
+          <root url="file://C:/Program Files (x86)/Zend/ZendServer/share/ZendFramework/library" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="ExtJS" level="application" />
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://C:/Projects/prompc_v2/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/classmap.phar" />
+          <root url="phar://C:/Program Files (x86)/Zend/ZendServer/share/ZendFramework/library/Zend/Service/WindowsAzure/CommandLine/Scaffolders/DefaultScaffolder.phar" />
+          <root url="phar://C:/Projects/prompc_v2/composer.phar" />
+          <root url="phar://C:/Program Files (x86)/Zend/ZendServer/bin/PEAR/go-pear.phar" />
+          <root url="phar://C:/Projects/prompc_v2/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModulePharZip.phar.zip" />
+          <root url="phar://C:/Projects/prompc_v2/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModuleExplicit.phar" />
+          <root url="phar://C:/Projects/prompc_v2/vendor/zendframework/zendframework/tests/ZendTest/View/_templates/view.phar" />
+          <root url="phar://C:/Projects/prompc_v2/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModulePharTar.phar.tar" />
+          <root url="phar://C:/Projects/prompc_v2/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModulePharTarGz.phar.tar.gz" />
+          <root url="phar://C:/Projects/prompc_v2/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModule.phar" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://C:/Projects/prompc_v2/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/classmap.phar" />
+          <root url="phar://C:/Program Files (x86)/Zend/ZendServer/share/ZendFramework/library/Zend/Service/WindowsAzure/CommandLine/Scaffolders/DefaultScaffolder.phar" />
+          <root url="phar://C:/Projects/prompc_v2/composer.phar" />
+          <root url="phar://C:/Program Files (x86)/Zend/ZendServer/bin/PEAR/go-pear.phar" />
+          <root url="phar://C:/Projects/prompc_v2/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModulePharZip.phar.zip" />
+          <root url="phar://C:/Projects/prompc_v2/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModuleExplicit.phar" />
+          <root url="phar://C:/Projects/prompc_v2/vendor/zendframework/zendframework/tests/ZendTest/View/_templates/view.phar" />
+          <root url="phar://C:/Projects/prompc_v2/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModulePharTar.phar.tar" />
+          <root url="phar://C:/Projects/prompc_v2/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModulePharTarGz.phar.tar.gz" />
+          <root url="phar://C:/Projects/prompc_v2/vendor/zendframework/zendframework/tests/ZendTest/Loader/_files/PharModule.phar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
+

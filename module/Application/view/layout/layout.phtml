@@ -1,0 +1,21 @@
+    <?php
+        echo $this->doctype(); ?>
+    <html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <?php echo $this->headTitle('PROM-PC v.2') ?>
+    <?php
+
+        echo $this->headLink();
+        echo $this->headScript();
+        ?>
+    </head>
+    <body>
+    <?php
+
+        echo $this->content;
+        echo $this->inlineScript();
+    ?>
+
+    </body>
+    </html>

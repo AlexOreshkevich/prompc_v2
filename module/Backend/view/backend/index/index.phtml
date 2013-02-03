@@ -1,0 +1,15 @@
+    <?php
+
+    $this->extJs()->loadLibrary();
+
+    // load custom variables set in configuration
+    $this->kjSenchaVariables();
+
+    // add loader configuration, which tells where ExtJs classes have to be loaded from
+    $this->kjSenchaLoaderConfig();
+
+    // preloads modules required to get the app running
+    $this->kjSenchaDirectApi();
+
+    // loads your actual application script (usually at the end of your body tag)
+    $this->inlineScript()->appendFile($this->basepath() . '/backend/js/app.js');
